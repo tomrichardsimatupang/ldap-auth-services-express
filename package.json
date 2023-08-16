@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "ldapjs": "^3.0.5"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "ldap-auth-services-express",
+  "version": "1.0.0",
+  "description": "LDAP API Server build for Authentication",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomrichardsimatupang/ldap-auth-services-express.git"
+  },
+  "keywords": [
+    "LDAP",
+    "Auth",
+    "Javascript",
+    "Express"
+  ],
+  "author": "Tom Richard Simatupang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomrichardsimatupang/ldap-auth-services-express/issues"
+  },
+  "homepage": "https://github.com/tomrichardsimatupang/ldap-auth-services-express#readme"
+}
